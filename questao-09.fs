@@ -11,5 +11,5 @@
     dup 0 0 get .
     dup 0 1 get . cr
     dup 1 0 get .
-    1 1 get 0 .r
+    1 1 get .
 ;
